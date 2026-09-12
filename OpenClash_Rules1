@@ -89,27 +89,27 @@ custom_proxy_group=📺 MyTV SUPER`select`[]♻️ 自动选择`[]🧭 手动选
 ; 注意：[]🌐 Default 是「可控的通用策略入口」並不是規則重新匹配。
 custom_proxy_group=📦 Notion`select`[]🇭🇰 HK`[]🇹🇼 TW`[]🇯🇵 JP`[]🇸🇬 SG`[]🇺🇸 US`[]🧊 冷门节点`[]🧭 手动选择`[]♻️ 自动选择`[]DIRECT`[]🌐 Default
 custom_proxy_group=🍎 Apple`select`[]🇭🇰 HK`[]🇹🇼 TW`[]🇯🇵 JP`[]🇸🇬 SG`[]🇺🇸 US`[]🧊 冷门节点`[]🧭 手动选择`[]♻️ 自动选择`[]DIRECT`[]🌐 Default
-custom_proxy_group=🤖 ChatGPT`select`[]🇭🇰 HK`[]🇹🇼 TW`[]🇯🇵 JP`[]🇸🇬 SG`[]🇺🇸 US`[]🧊 冷门节点`[]🧭 手动选择`[]♻️ 自动选择`[]DIRECT`[]🌐 Default
-custom_proxy_group=🧠 AI`select`[]🇭🇰 HK`[]🇹🇼 TW`[]🇯🇵 JP`[]🇸🇬 SG`[]🇺🇸 US`[]🧊 冷门节点`[]🧭 手动选择`[]♻️ 自动选择`[]DIRECT`[]🌐 Default
-custom_proxy_group=📨 Telegram`select`[]🇭🇰 HK`[]🇹🇼 TW`[]🇯🇵 JP`[]🇸🇬 SG`[]🇺🇸 US`[]🧊 冷门节点`[]🧭 手动选择`[]♻️ 自动选择`[]DIRECT`[]🌐 Default
-custom_proxy_group=📞 即时通讯`select`[]🇭🇰 HK`[]🇹🇼 TW`[]🇯🇵 JP`[]🇸🇬 SG`[]🇺🇸 US`[]🧊 冷门节点`[]🧭 手动选择`[]♻️ 自动选择`[]DIRECT`[]🌐 Default
-custom_proxy_group=💬 社交媒体`select`[]🇭🇰 HK`[]🇹🇼 TW`[]🇯🇵 JP`[]🇸🇬 SG`[]🇺🇸 US`[]🧊 冷门节点`[]🧭 手动选择`[]♻️ 自动选择`[]DIRECT`[]🌐 Default
-custom_proxy_group=↔️ teamviewer`select`[]🇭🇰 HK`[]🇹🇼 TW`[]🇯🇵 JP`[]🇸🇬 SG`[]🇺🇸 US`[]🧊 冷门节点`[]🧭 手动选择`[]♻️ 自动选择`[]DIRECT`[]🌐 Default
-custom_proxy_group=🎬 YouTube`select`[]🇭🇰 HK`[]🇹🇼 TW`[]🇯🇵 JP`[]🇸🇬 SG`[]🇺🇸 US`[]🧊 冷门节点`[]🧭 手动选择`[]♻️ 自动选择`[]DIRECT`[]🌐 Default
-custom_proxy_group=🎥 Netflix`select`[]🇭🇰 HK`[]🇹🇼 TW`[]🇯🇵 JP`[]🇸🇬 SG`[]🇺🇸 US`[]🧊 冷门节点`[]🧭 手动选择`[]♻️ 自动选择`[]DIRECT`[]🌐 Default
-custom_proxy_group=🎵 TikTok`select`[]🇭🇰 HK`[]🇹🇼 TW`[]🇯🇵 JP`[]🇸🇬 SG`[]🇺🇸 US`[]🧊 冷门节点`[]🧭 手动选择`[]♻️ 自动选择`[]DIRECT`[]🌐 Default
-custom_proxy_group=📸 Instagram`select`[]🇭🇰 HK`[]🇹🇼 TW`[]🇯🇵 JP`[]🇸🇬 SG`[]🇺🇸 US`[]🧊 冷门节点`[]🧭 手动选择`[]♻️ 自动选择`[]DIRECT`[]🌐 Default
-custom_proxy_group=🐦 X`select`[]🇭🇰 HK`[]🇹🇼 TW`[]🇯🇵 JP`[]🇸🇬 SG`[]🇺🇸 US`[]🧊 冷门节点`[]🧭 手动选择`[]♻️ 自动选择`[]DIRECT`[]🌐 Default
-custom_proxy_group=🧑‍💻 GitHub`select`[]🇭🇰 HK`[]🇹🇼 TW`[]🇯🇵 JP`[]🇸🇬 SG`[]🇺🇸 US`[]🧊 冷门节点`[]🧭 手动选择`[]♻️ 自动选择`[]DIRECT`[]🌐 Default
+custom_proxy_group=🤖 ChatGPT`select`[]🇭🇰 HK`[]🇹🇼 TW`[]🇯🇵 JP`[]🇸🇬 SG`[]🇺🇸 US`[]🧊 冷门节点`[]🧭 手动选择`[]♻️ 自动选择`[]🌐 Default
+custom_proxy_group=🧠 AI`select`[]🇭🇰 HK`[]🇹🇼 TW`[]🇯🇵 JP`[]🇸🇬 SG`[]🇺🇸 US`[]🧊 冷门节点`[]🧭 手动选择`[]♻️ 自动选择`[]🌐 Default
+custom_proxy_group=📨 Telegram`select`[]🇭🇰 HK`[]🇹🇼 TW`[]🇯🇵 JP`[]🇸🇬 SG`[]🇺🇸 US`[]🧊 冷门节点`[]🧭 手动选择`[]♻️ 自动选择`[]🌐 Default
+custom_proxy_group=📞 即时通讯`select`[]🇭🇰 HK`[]🇹🇼 TW`[]🇯🇵 JP`[]🇸🇬 SG`[]🇺🇸 US`[]🧊 冷门节点`[]🧭 手动选择`[]♻️ 自动选择`[]🌐 Default
+custom_proxy_group=💬 社交媒体`select`[]🇭🇰 HK`[]🇹🇼 TW`[]🇯🇵 JP`[]🇸🇬 SG`[]🇺🇸 US`[]🧊 冷门节点`[]🧭 手动选择`[]♻️ 自动选择`[]🌐 Default
+custom_proxy_group=↔️ teamviewer`select`[]🇭🇰 HK`[]🇹🇼 TW`[]🇯🇵 JP`[]🇸🇬 SG`[]🇺🇸 US`[]🧊 冷门节点`[]🧭 手动选择`[]♻️ 自动选择`[]🌐 Default
+custom_proxy_group=🎬 YouTube`select`[]🇭🇰 HK`[]🇹🇼 TW`[]🇯🇵 JP`[]🇸🇬 SG`[]🇺🇸 US`[]🧊 冷门节点`[]🧭 手动选择`[]♻️ 自动选择`[]🌐 Default
+custom_proxy_group=🎥 Netflix`select`[]🇭🇰 HK`[]🇹🇼 TW`[]🇯🇵 JP`[]🇸🇬 SG`[]🇺🇸 US`[]🧊 冷门节点`[]🧭 手动选择`[]♻️ 自动选择`[]🌐 Default
+custom_proxy_group=🎵 TikTok`select`[]🇭🇰 HK`[]🇹🇼 TW`[]🇯🇵 JP`[]🇸🇬 SG`[]🇺🇸 US`[]🧊 冷门节点`[]🧭 手动选择`[]♻️ 自动选择`[]🌐 Default
+custom_proxy_group=📸 Instagram`select`[]🇭🇰 HK`[]🇹🇼 TW`[]🇯🇵 JP`[]🇸🇬 SG`[]🇺🇸 US`[]🧊 冷门节点`[]🧭 手动选择`[]♻️ 自动选择`[]🌐 Default
+custom_proxy_group=🐦 X`select`[]🇭🇰 HK`[]🇹🇼 TW`[]🇯🇵 JP`[]🇸🇬 SG`[]🇺🇸 US`[]🧊 冷门节点`[]🧭 手动选择`[]♻️ 自动选择`[]🌐 Default
+custom_proxy_group=🧑‍💻 GitHub`select`[]🇭🇰 HK`[]🇹🇼 TW`[]🇯🇵 JP`[]🇸🇬 SG`[]🇺🇸 US`[]🧊 冷门节点`[]🧭 手动选择`[]♻️ 自动选择`[]🌐 Default
 custom_proxy_group=🚝 测速工具`select`[]DIRECT`[]🇭🇰 HK`[]🇹🇼 TW`[]🇯🇵 JP`[]🇸🇬 SG`[]🇺🇸 US`[]🧊 冷门节点`[]🧭 手动选择`[]♻️ 自动选择`[]🌐 Default
 custom_proxy_group=🎮 Steam`select`[]DIRECT`[]🇭🇰 HK`[]🇹🇼 TW`[]🇯🇵 JP`[]🇸🇬 SG`[]🇺🇸 US`[]🧊 冷门节点`[]🧭 手动选择`[]♻️ 自动选择`[]🌐 Default
 custom_proxy_group=🟦 OKX`select`[]🇭🇰 HK`[]🇹🇼 TW`[]🇯🇵 JP`[]🇸🇬 SG`[]🇺🇸 US`[]🧊 冷门节点`[]DIRECT`[]🧭 手动选择`[]♻️ 自动选择`[]🌐 Default
-custom_proxy_group=🟨 Binance`select`[]🇭🇰 HK`[]🇹🇼 TW`[]🇯🇵 JP`[]🇸🇬 SG`[]🇺🇸 US`[]🧊 冷门节点`[]DIRECT`[]🧭 手动选择`[]♻️ 自动选择`[]🌐 Default
-custom_proxy_group=🟪 Bybit`select`[]🇭🇰 HK`[]🇹🇼 TW`[]🇯🇵 JP`[]🇸🇬 SG`[]🇺🇸 US`[]🧊 冷门节点`[]DIRECT`[]🧭 手动选择`[]♻️ 自动选择`[]🌐 Default
-custom_proxy_group=🟥 Adobe`select`[]🇭🇰 HK`[]🇹🇼 TW`[]🇯🇵 JP`[]🇸🇬 SG`[]🇺🇸 US`[]🧊 冷门节点`[]🧭 手动选择`[]♻️ 自动选择`[]DIRECT`[]🌐 Default`[]REJECT
-custom_proxy_group=🔎 Google`select`[]🇭🇰 HK`[]🇹🇼 TW`[]🇯🇵 JP`[]🇸🇬 SG`[]🇺🇸 US`[]🧊 冷门节点`[]🧭 手动选择`[]♻️ 自动选择`[]DIRECT`[]🌐 Default
-custom_proxy_group=☁️ cloudflare`select`[]🇭🇰 HK`[]🇹🇼 TW`[]🇯🇵 JP`[]🇸🇬 SG`[]🇺🇸 US`[]🧊 冷门节点`[]🧭 手动选择`[]♻️ 自动选择`[]DIRECT`[]🌐 Default
-custom_proxy_group=🪟 Microsoft`select`[]DIRECT`[]🇭🇰 HK`[]🇹🇼 TW`[]🇯🇵 JP`[]🇸🇬 SG`[]🇺🇸 US`[]🧊 冷门节点`[]🧭 手动选择`[]♻️ 自动选择`[]🌐 Default
+custom_proxy_group=🟨 Binance`select`[]🇭🇰 HK`[]🇹🇼 TW`[]🇯🇵 JP`[]🇸🇬 SG`[]🇺🇸 US`[]🧊 冷门节点`[]🧭 手动选择`[]♻️ 自动选择`[]DIRECT`[]🌐 Default
+custom_proxy_group=🟪 Bybit`select`[]🇭🇰 HK`[]🇹🇼 TW`[]🇯🇵 JP`[]🇸🇬 SG`[]🇺🇸 US`[]🧊 冷门节点`[]🧭 手动选择`[]♻️ 自动选择`[]DIRECT`[]🌐 Default
+custom_proxy_group=🟥 Adobe`select`[]🇭🇰 HK`[]🇹🇼 TW`[]🇯🇵 JP`[]🇸🇬 SG`[]🇺🇸 US`[]🧊 冷门节点`[]🧭 手动选择`[]♻️ 自动选择`[]DIRECT`[]REJECT`[]🌐 Default
+custom_proxy_group=🔎 Google`select`[]🇭🇰 HK`[]🇹🇼 TW`[]🇯🇵 JP`[]🇸🇬 SG`[]🇺🇸 US`[]🧊 冷门节点`[]🧭 手动选择`[]♻️ 自动选择`[]🌐 Default
+custom_proxy_group=☁️ cloudflare`select`[]🇭🇰 HK`[]🇹🇼 TW`[]🇯🇵 JP`[]🇸🇬 SG`[]🇺🇸 US`[]🧊 冷门节点`[]🧭 手动选择`[]♻️ 自动选择`[]🌐 Default
+custom_proxy_group=🪟 Microsoft`select`[]DIRECT`[]🇭🇰 HK`[]🇹🇼 TW`[]🇯🇵 JP`[]🇸🇬 SG`[]🇺🇸 US`[]🧊 冷门节点`[]♻️ 自动选择`[]🧭 手动选择`[]🌐 Default
 ; ==========================================================
 
 ; ⑮ 通用代理策略
